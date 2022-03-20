@@ -70,6 +70,7 @@ namespace Hotel_USP17
         {
 
             int kris = 6;
+            int kris2 = 6;
 
         }
     }
