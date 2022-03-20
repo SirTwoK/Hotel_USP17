@@ -69,7 +69,7 @@ namespace Hotel_USP17
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            int kris2 = 6;
+            int kris = 6;
         }
     }
 }
