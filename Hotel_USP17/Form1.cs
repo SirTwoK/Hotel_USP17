@@ -64,12 +64,13 @@ namespace Hotel_USP17
             MessageBox.Show("Успешно актуализиране на запис.", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             dbConnect.Close();
-
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
+
             int kris = 6;
+
         }
     }
 }
